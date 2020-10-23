@@ -12,6 +12,8 @@
     "@types/react-dom": "^16.9.0",
     "cannon": "^0.6.2",
     "drei": "^1.5.7",
+    "nice-color-palettes": "^3.0.0",
+    "postprocessing": "^6.17.4",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
     "react-scripts": "3.4.3",
